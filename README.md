@@ -2,7 +2,7 @@
 
 这是PinkApp的前端文件
 
-###PinkApp的预览图：
+### PinkApp的预览图：
 
 <img src="/md-image/Screenshot_2021-11-12-18-14-47-022_com.pinkacg.pi.jpg" alt="Screenshot_2021-11-12-18-14-47-022_com.pinkacg.pi" style="zoom:50%;" />
 
